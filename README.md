@@ -5,8 +5,8 @@
  I used microsoft telnet for testing. Opened up multiple telnet terminals and connected all of them to the server at the same time. 
  
  Here are some screenshots:
-	![Clients connected to chat room]("C:\Users\DonRiz\Pictures\chatApp_1.JPG")
-	![Server broadcasted output]("C:\Users\DonRiz\Pictures\chatApp_2.JPG")
+	![Clients connected to chat room]("C:\Users\DonRiz\Documents\GitHub\ChatApp\chatApp_1.JPG")
+	![Server broadcasted output]("C:\Users\DonRiz\Documents\GitHub\ChatApp\chatApp_2.JPG")
 
 # Notes
  This application was built using C++20 and utilizes the [Boost](https://www.boost.org/) libraries for networking. 
