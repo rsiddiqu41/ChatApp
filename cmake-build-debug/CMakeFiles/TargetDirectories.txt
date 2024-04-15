@@ -1,0 +1,11 @@
+/mnt/c/Users/DonRiz/CLionProjects/ClientServerTCPApplication/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/DonRiz/CLionProjects/ClientServerTCPApplication/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/DonRiz/CLionProjects/ClientServerTCPApplication/cmake-build-debug/Networking/CMakeFiles/Networking.dir
+/mnt/c/Users/DonRiz/CLionProjects/ClientServerTCPApplication/cmake-build-debug/Networking/CMakeFiles/edit_cache.dir
+/mnt/c/Users/DonRiz/CLionProjects/ClientServerTCPApplication/cmake-build-debug/Networking/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/DonRiz/CLionProjects/ClientServerTCPApplication/cmake-build-debug/Client/CMakeFiles/Client.dir
+/mnt/c/Users/DonRiz/CLionProjects/ClientServerTCPApplication/cmake-build-debug/Client/CMakeFiles/edit_cache.dir
+/mnt/c/Users/DonRiz/CLionProjects/ClientServerTCPApplication/cmake-build-debug/Client/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/DonRiz/CLionProjects/ClientServerTCPApplication/cmake-build-debug/Server/CMakeFiles/Server.dir
+/mnt/c/Users/DonRiz/CLionProjects/ClientServerTCPApplication/cmake-build-debug/Server/CMakeFiles/edit_cache.dir
+/mnt/c/Users/DonRiz/CLionProjects/ClientServerTCPApplication/cmake-build-debug/Server/CMakeFiles/rebuild_cache.dir
