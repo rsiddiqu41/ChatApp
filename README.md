@@ -3,8 +3,7 @@
 
 # Testing
  I used microsoft telnet for testing. Opened up multiple telnet terminals and connected all of them to the server at the same time. 
- 
- Screenshots are seen in `chatApp_1.JPG` and `chatApp_2.JPG`
+ ![Chat Room](https://github.com/rsiddiqu41/ChatApp/blob/main/chatApp_1.JPG?raw=TRUE)
 
 # Notes
  This application was built using C++20 and utilizes the [Boost](https://www.boost.org/) libraries for networking. 
